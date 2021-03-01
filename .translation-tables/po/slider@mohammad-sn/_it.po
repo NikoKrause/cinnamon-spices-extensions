@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-30 02:06+0800\n"
+"PO-Revision-Date: 2019-10-21 21:01+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutBounce"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutExpo"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutCubic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutCubic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutCirc"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInQuart"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInBounce"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutQuad"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInQuint"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutElastic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutQuint"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutElastic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInExpo"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutSine"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutQuad"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInQuad"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutSine"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutExpo"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutBounce"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutBack"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutQuint"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutCirc"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInCirc"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInElastic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInBack"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInSine"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeOutQuart"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutQuart"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInCubic"
+msgstr ""
+
+#. slider@mohammad-sn->settings-schema.json->animation-effect->options
+msgid "easeInOutBack"
+msgstr ""

@@ -1,0 +1,37 @@
+# Extension for Cinnamon desktop environment developed by Linux Mint team. It can be found at Cinnamon Spices page and installed via Cinnamon extensions manager.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 22:34+0800\n"
+"PO-Revision-Date: 2019-10-21 21:27+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. workspace-scroller@ori->settings-schema.json->RightUp->description
+#. workspace-scroller@ori->settings-schema.json->BottomRightUp->description
+#. workspace-scroller@ori->settings-schema.json->BottomUp->description
+#. workspace-scroller@ori->settings-schema.json->BottomLeftUp->description
+#. workspace-scroller@ori->settings-schema.json->TopLeftUp->description
+#. workspace-scroller@ori->settings-schema.json->TopUp->description
+#. workspace-scroller@ori->settings-schema.json->TopRightUp->description
+#. workspace-scroller@ori->settings-schema.json->LeftUp->description
+msgid " — Scroll up: "
+msgstr ""
+
+#. workspace-scroller@ori->settings-schema.json->BottomRightDown->description
+#. workspace-scroller@ori->settings-schema.json->TopLeftDown->description
+#. workspace-scroller@ori->settings-schema.json->BottomDown->description
+#. workspace-scroller@ori->settings-schema.json->TopDown->description
+#. workspace-scroller@ori->settings-schema.json->RightDown->description
+#. workspace-scroller@ori->settings-schema.json->BottomLeftDown->description
+#. workspace-scroller@ori->settings-schema.json->LeftDown->description
+#. workspace-scroller@ori->settings-schema.json->TopRightDown->description
+msgid " — Scroll down: "
+msgstr ""

@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 22:07+0800\n"
+"PO-Revision-Date: 2019-12-19 23:53+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutBounce"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutExpo"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutCubic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutCubic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInQuart"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInBounce"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutQuad"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInQuint"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutElastic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutQuint"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutCirc"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutElastic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInExpo"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutSine"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutQuad"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInQuad"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutSine"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutExpo"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutBounce"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutBack"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutQuint"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutCirc"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInCirc"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInElastic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInBack"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInSine"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeOutQuart"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutQuart"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInCubic"
+msgstr ""
+
+#. opacify@anish.org->settings-schema.json->beginEffect->options
+#. opacify@anish.org->settings-schema.json->endEffect->options
+msgid "easeInOutBack"
+msgstr ""
